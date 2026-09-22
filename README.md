@@ -1,7 +1,5 @@
 
-# Project Title
 
-A brief description of what this project does and who it's for
 
 # Sales & Profit Dashboard
 
@@ -33,7 +31,7 @@ Through visual breakdowns, key decision-makers can identify high-performing regi
 
 # Snapshot of Dashboard (Tableau)
 
-![Dashboard_Snapshot](https://github.com/user-attachments/assets/e4159fb8-27a0-4362-8ae6-dbc699c30d1)
+![Dashboard_Snapshot](<img width="1654" height="843" alt="Image" src="https://github.com/user-attachments/assets/e4159fb8-27a0-4362-8ae6-dbc699c30d1f" />)
 
 ---
 

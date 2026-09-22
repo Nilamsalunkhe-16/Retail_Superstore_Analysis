@@ -31,7 +31,8 @@ Through visual breakdowns, key decision-makers can identify high-performing regi
 
 # Snapshot of Dashboard (Tableau)
 
-![Dashboard_Snapshot](<img width="1654" height="843" alt="Image" src="https://github.com/user-attachments/assets/e4159fb8-27a0-4362-8ae6-dbc699c30d1f" />)
+![Dashboard_Snapshot]
+<img width="1654" height="843" alt="dashboard ss" src="https://github.com/user-attachments/assets/3afdbe01-dee4-44ef-a52e-08b4595cbcef" />
 
 ---
 

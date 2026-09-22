@@ -1,7 +1,7 @@
 
 
 
-# Sales & Profit Dashboard
+# Retail Superstore Analysis
 
 ### Dashboard Link : https://public.tableau.com/app/profile/nilam.salunkhhe/viz/SalesProfitTableau/Dashboard1?publish=yes
 
